@@ -1,3 +1,6 @@
 # Pour tout push dans le repo
 # - déclencher le build d'une nouvelle image docker en utilisant le Dockerfile
 # - et faire un push vers dockerHub
+
+name: build and push image
+on: [push]
