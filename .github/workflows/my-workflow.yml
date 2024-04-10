@@ -1,1 +1,13 @@
 # Lorsqu'un push survient, on veut automatiquement créer une image docker et la pousser sur le dockerhub
+
+# Trigger
+# Lors qu'un push survient
+
+# Steps
+# - checkout du code
+# - docker build (et tag)
+# - docker login
+# - docker push
+
+# Bonus
+# - Gérer les secrets (username / password / token) de manière sécurisée
