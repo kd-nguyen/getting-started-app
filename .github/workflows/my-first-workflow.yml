@@ -1,0 +1,1 @@
+# Ecrire un GitHub Action qui utilise le Dockerfile pour build une image et la pousser sur le Docker hub. Il se déclenche sur push sur la branche main
